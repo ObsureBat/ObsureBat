@@ -95,19 +95,20 @@ I'm a **Cybersecurity Engineer** specializing in **AI-driven threat detection** 
 
 <div align="center">
 
-### 🔥 My GitHub Performance  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical&hide_border=true)  
+### 🔥 GitHub Streak  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ObsureBat&theme=radical&hide_border=true)](https://git.io/streak-stats)  
 
-### 🚀 Overall GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+### 🚀 GitHub Stats  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsureBat&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/YourGitHubUsername)  
 
 ### 📈 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObsureBat&layout=compact&theme=radical&hide_border=true)](https://github.com/YourGitHubUsername)  
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=10)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ObsureBat&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
 
 </div>
+
 
 
 ---
