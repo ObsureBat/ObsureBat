@@ -97,7 +97,8 @@ I'm a **Cybersecurity Engineer** specializing in **AI-driven threat detection** 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsureBat&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/YourGitHubUsername)  
 
 ### 📈 Most Used Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObsureBat&layout=compact&theme=radical&hide_border=true)](https://github.com/YourGitHubUsername)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObsureBat&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10)](https://github.com/ObsureBat)
+
  
 </div>
 
