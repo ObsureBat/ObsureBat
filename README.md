@@ -94,10 +94,7 @@ I'm a **Cybersecurity Engineer** specializing in **AI-driven threat detection** 
 ## 📊 GitHub Stats  
 
 <div align="center">
-
-### 🔥 My GitHub Performance  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ObsureBat&theme=radical&hide_border=true)  
-
+  
 ### 🚀 GitHub Stats  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsureBat&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/YourGitHubUsername)  
 
@@ -106,12 +103,17 @@ I'm a **Cybersecurity Engineer** specializing in **AI-driven threat detection** 
  
 </div>
 
-🌍 Let's Connect!
+## 🏆 Achievements
 
-💬 Feel free to reach out for collaborations in AI, Cybersecurity, Cloud, and Full-Stack Development.
+🏆 Cloud Hackathon: Built a cloud-native e-learning platform.  
+🏆 Published multiple AI & Cybersecurity research papers.  
+🏆 Developed penetration testing scripts & ethical hacking tools.  
 
-📧 Email: ayushsharmasd03@gmail.com💼 LinkedIn: Ayush Sharma📌 GitHub: ObsureBat
+## 🌍 **Let's Connect!** 
+
+💬 Feel free to reach out for collaborations in **AI, Cybersecurity, Cloud, and Full-Stack Development.**
+
+📧 **Email:** ayushsharmasd03@gmail.com  
 
 ⭐ If you like my work, consider giving it a star! ⭐
-
 ---
