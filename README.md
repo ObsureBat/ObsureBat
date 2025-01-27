@@ -21,8 +21,6 @@ I'm a **Cybersecurity Engineer** specializing in **AI-driven threat detection** 
 
 ---
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak"/>
-
 ### 🎓 Education
 
 🏛️ **Bennett University (Times of India Group)**  
