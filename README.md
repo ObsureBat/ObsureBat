@@ -23,7 +23,7 @@ I'm a Cybersecurity Engineer specializing in AI-driven threat detection and clou
 
 ### 🎓 Education
 - 🏛️ Bennett University (Times of India Group)
-  - B.Tech in Computer Science (Current CGPA: 7.77)
+  - B.Tech in Computer Science 
   - Specialization: Cloud Computing & Cybersecurity
 
 ### 🏆 Certifications
