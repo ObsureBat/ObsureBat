@@ -95,20 +95,23 @@ I'm a **Cybersecurity Engineer** specializing in **AI-driven threat detection** 
 
 <div align="center">
 
-### 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ObsureBat&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+### 🔥 My GitHub Performance  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ObsureBat&theme=radical&hide_border=true)  
 
 ### 🚀 GitHub Stats  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsureBat&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/YourGitHubUsername)  
 
 ### 📈 Most Used Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObsureBat&layout=compact&theme=radical&hide_border=true)](https://github.com/YourGitHubUsername)  
-
-### 🏆 GitHub Trophies  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ObsureBat&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
-
+ 
 </div>
 
+🌍 Let's Connect!
 
+💬 Feel free to reach out for collaborations in AI, Cybersecurity, Cloud, and Full-Stack Development.
+
+📧 Email: ayushsharmasd03@gmail.com💼 LinkedIn: Ayush Sharma📌 GitHub: ObsureBat
+
+⭐ If you like my work, consider giving it a star! ⭐
 
 ---
