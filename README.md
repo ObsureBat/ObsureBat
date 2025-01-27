@@ -1,18 +1,19 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Banner"/>
-</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+I'm+Ayush+Sharma;Cybersecurity+Engineer;Cloud+Computing+Expert" alt="Typing SVG" />
-</h1>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="tech stack animation"/>
 </div>
 
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+I'm+Ayush+Sharma;Cybersecurity+Engineer;Cloud+Computing+Expert" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <a href="mailto:ayushsharmasd03@gmail.com">
