@@ -91,11 +91,23 @@ I'm a **Cybersecurity Engineer** specializing in **AI-driven threat detection** 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" height="200" alt="Trophy Badges" />
-</p>
+<div align="center">
+
+### 🔥 My GitHub Performance  
+![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical&hide_border=true)  
+
+### 🚀 Overall GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+
+### 📈 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true)  
+
+### 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=10)  
+
+</div>
+
 
 ---
